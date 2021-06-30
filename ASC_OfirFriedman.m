@@ -1,8 +1,7 @@
 %% Image Processing for Materials Science Applications
 % Automatic Size Calculation
-% Written by Ofir Friedman 300483153
+% Written by Ofir Friedman
 % Written in Matlab R2013a
-% ofirfr@post.bgu.ac.il
 
 
 function ASC_OfirFriedman()
