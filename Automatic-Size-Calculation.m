@@ -2,7 +2,6 @@
 % Automatic Size Calculation
 % Written in Matlab R2013a
 
-
 function ASC()
 
 close all;
